@@ -1,0 +1,38 @@
+*
+
+    h1 {
+        color: red;
+        align-content: center;
+        text-align: center;
+    }
+    table {
+        text-align: justify;
+        align-content: center;
+    }
+    img {
+        width: 350px;
+        height: 200px;
+    }
+    td {
+        width: 350px;
+        align-content: center;
+        text-align: justify;
+    }
+    tr {
+        align-content: center;
+        text-align: justify;
+    }
+    table {
+        align-content: center;
+        text-align: center;
+    }
+    p {
+        color: skyblue;
+        font-style: normal;
+        font-size: 20px;
+    }
+    .href {
+        width: 800px;
+        height: 600px;
+    }
+     
